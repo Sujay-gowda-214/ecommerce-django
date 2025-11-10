@@ -50,9 +50,6 @@ python manage.py collectstatic
 python manage.py runserver
 
 
-# admin login
-Username: kalyan
-Password: tiger
 
 ecommerce/
 │
@@ -79,8 +76,7 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 
 👨‍💻 Developer
 
-Kalyan BN
+SUJAY GOWDA
 💼 Django Full Stack Developer
-📧 [kalyanbn19@gmail.com
-]
-🌐 https://github.com/Tunder00
+📧 [sujaygowda2141@gmail.com]
+🌐 https://github.com/
