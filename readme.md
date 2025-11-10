@@ -79,4 +79,4 @@ DEBUG = config('DEBUG', default=False, cast=bool)
 SUJAY GOWDA
 💼 Django Full Stack Developer
 📧 [sujaygowda2141@gmail.com]
-🌐 https://github.com/
+🌐 https://github.com/Sujay-gowda-214
